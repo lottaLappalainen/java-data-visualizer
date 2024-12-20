@@ -1,0 +1,6 @@
+
+Link to Figma design file (not sure if acces is needed)
+https://www.figma.com/design/wqYoc44EdKbRtvv0hsVLrL/Energy-Consumption-and-Weather-Correlation-Tool?node-id=0-1&t=DKoRXdKjeBgAKDBS-1
+
+Link to the Figma proto file
+https://www.figma.com/proto/wqYoc44EdKbRtvv0hsVLrL/Energy-Consumption-and-Weather-Correlation-Tool?node-id=0-1&t=DKoRXdKjeBgAKDBS-1
